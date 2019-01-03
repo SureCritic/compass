@@ -16,6 +16,11 @@ The Documentation for the [latest preview release](http://beta.compass-style.org
 
 Every release contains updated caniuse data unless otherwise noted.
 
+1.1.0
+------------------
+
+* Removed Sass upper version restriction
+
 1.0.2 (UNRELEASED)
 ------------------
 
